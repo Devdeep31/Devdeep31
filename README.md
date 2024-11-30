@@ -1,7 +1,3 @@
-Here’s an example of a professional and visually appealing `README.md` file:
-
----
-
 # 👋 Hi, I'm Deep 
 **🌟 Full Stack Developer | Problem Solver | Lifelong Learner**  
 
