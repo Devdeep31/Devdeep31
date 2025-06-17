@@ -2,18 +2,25 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" width="full" alt="Project Screenshot">
 </div>
-<div align="center">
-  <!-- Local GitHub image -->
-  
-  
-  <!-- Giphy animated image -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR1MDlndzc3bmo1eGZoMWZib3ZjZWRuZGRrdzhwY3E4YzYwaXZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</div>
-Hey there! 👋 I'm **Deep Govale**, a passionate Full Stack Developer who loves turning ideas into reality through code. I specialize in building **scalable, performant, and user-friendly** web applications.  
 
-🔭 **Currently working on:** Next-gen web apps with React & Spring Boot  
-🌱 **Learning:** Advanced cloud architectures & microservices  
-⚡ **Fun fact:** I automate boring tasks just for fun!  
+---
+devdeep
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+    </td>
+    <td>
+      <strong>Hey there! 👋</strong> I'm <strong>Deep Govale</strong>, a passionate Full Stack Developer who loves turning ideas into reality through code.<br><br>
+      🔭 <strong>Currently working on:</strong> Next-gen web apps with React & Spring Boot<br>
+      🌱 <strong>Learning:</strong> Advanced cloud architectures & microservices<br>
+      ⚡ <strong>Fun fact:</strong> I automate boring tasks just for fun!
+    </td>
+  </tr>
+</table>
+
 
 ---
 
