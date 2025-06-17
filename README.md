@@ -43,10 +43,12 @@ Hey there! 👋 I'm **Deep Govale**, a passionate Full Stack Developer who loves
 ---
 
 ## 📊 GitHub Stats  
-
 <div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devdeep31&theme=github_dark" alt="GitHub Stats"/>
+</div>
+<div align="center">
+ 
   <a href="https://github.com/Devdeep31">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devdeep31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdeep31&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
