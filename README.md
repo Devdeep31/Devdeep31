@@ -52,7 +52,7 @@ Hey there! 👋 I'm **Deep Govale**, a passionate Full Stack Developer who loves
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepGovale&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devdeep31&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
@@ -100,7 +100,7 @@ Real-time collaborative task management with drag-n-drop interface
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeepGovale&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Devdeep31&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
   <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime">
 </div>
 
