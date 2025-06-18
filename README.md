@@ -1,5 +1,7 @@
-# 💻 Full Stack Developer | Crafting Digital Experiences 🚀  
-<div align="center">
+Full Stack Developer | Crafting Digital Experiences
+<div align="start">
+  <img src="https://media.tenor.com/D9jJlCQcYFkAAAAj/doconghoa.gif" width="80" alt="Project Screenshot"> 
+  <strong>Hey there ! </strong>
   <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" width="full" alt="Project Screenshot">
 </div>
 
@@ -52,8 +54,7 @@ devdeep
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
+ 
 <div align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devdeep31&theme=github_dark" alt="GitHub Stats"/>
 </div>
@@ -70,17 +71,17 @@ devdeep
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 ### 1. **E-Commerce Platform**  
 ![Tech Stack](https://img.shields.io/badge/-React%20%7C%20Spring%20Boot%20%7C%20MySQL-61DAFB?style=flat)  
 A full-featured e-commerce solution with payment integration and admin dashboard  
 [![View on GitHub](https://img.shields.io/badge/View_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-repo)
 
-### 2. **Task Management App**  
+### 2. **Health Care App**  
 ![Tech Stack](https://img.shields.io/badge/-Next.js%20%7C%20Node.js%20%7C%20MongoDB-000000?style=flat)  
-Real-time collaborative task management with drag-n-drop interface  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://your-demo-url.com)
+ offers a user-friendly interface to manage personal health and stay connected with healthcare providers anytime, anywhere.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=google-chrome)](https://www.hellodoclive.in)
 
 ---
 
