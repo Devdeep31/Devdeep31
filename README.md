@@ -1,7 +1,15 @@
 Full Stack Developer | Crafting Digital Experiences
-<div align="start">
-  <img src="https://media.tenor.com/D9jJlCQcYFkAAAAj/doconghoa.gif" width="80" alt="Project Screenshot"> 
+---
+
+<div>
+    <img src="https://media.tenor.com/D9jJlCQcYFkAAAAj/doconghoa.gif" width="60" alt="Project Screenshot"> 
   <strong>Hey there ! </strong>
+</div>
+
+---
+
+<div align="start">
+
   <img src="https://user-images.githubusercontent.com/2780145/123766936-ba9e1f00-d8e4-11eb-9f08-488da835cff4.jpg" width="full" alt="Project Screenshot">
 </div>
 
